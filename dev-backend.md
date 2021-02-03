@@ -32,10 +32,9 @@ Selon votre profil vous interviendrez sur la conception et le développement des
     
 ### Profil recherché
 
--   Rigueur et créativité
--   Autonomie et responsabilité test
+-   Rigueur, autonomie et responsabilité
 -   Esprit d’équipe
--   Agilité, curiosité et forte autonomie technique générale
+-   Agilité, curiosité, créativité et forte autonomie technique générale
 -   Connaissance d’environnements e-commerce
     
 ### L'équipe
